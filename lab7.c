@@ -14,7 +14,6 @@ and checks whether the strings has even number of characters or not.
 
 struct st{ //struct creation
     char strings[10][20]; //string data to store each string with double dimensional char array
-    int chars[20]; //integer array
 };
 
 int main() {
