@@ -58,6 +58,5 @@ int main() {
         }
         counter++; //increase the counter to move on to the next string
     }
-    
     return 0; 
 }
